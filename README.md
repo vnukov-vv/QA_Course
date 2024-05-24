@@ -2,4 +2,3 @@
 ## Группа "К ТП-1/2024"
 > 06.004 «Специалист по тестированию в области информационных технологий»
 
-[MindMap](https://www.mindmeister.com/app/map/3252371220?t=KagOT7TlZ1) от [QAtoDev](https://t.me/QAtoDev)
