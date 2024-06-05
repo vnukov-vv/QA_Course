@@ -4,7 +4,7 @@
 # Инструментарий
 
 > Чем пользоваться:
--
+- [Selenium](https://www.selenium.dev/) - автоматизация тестирования web-приложений [IDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)+ Python
 -
 -
 
